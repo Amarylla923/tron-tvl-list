@@ -84,4 +84,6 @@ WINkLink
 ##### methodology (what is being counted as tvl, how is tvl being calculated):
 All tokens staked in the pool MINUS borrowed assets are counted as TVL. Borrowed assets are not included in the TVL.
 
+Amar
+Amarylla
 ```
